@@ -38,6 +38,7 @@ $font-family-base: Quattrocento Sans, -apple-system, BlinkMacSystemFont, "Segoe 
 $headings-font-family: Ovo, 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 $display-font-family: $font-family-base;
 $lead-font-size:   1.30rem;
+$enable-responsive-font-sizes: true;
 
 @import 'bootstrap-4.1.3';
 
